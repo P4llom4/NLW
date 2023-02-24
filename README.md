@@ -4,7 +4,7 @@
 
 Projeto construído no evento *Next Level Week* da Rocketseat.
 
-[Clique aqui para acesssar!](https://p4llom4.github.io/NLW/)
+[Clique aqui para acessar!](https://p4llom4.github.io/NLW/)
 
 ![preview](./.github/preview.png)
 
